@@ -97,3 +97,5 @@ pip-delete-this-directory.txt
 
 # Optional: exclude certain large or temporary files
 *.sqlite3
+
+./flax_ckpts/
